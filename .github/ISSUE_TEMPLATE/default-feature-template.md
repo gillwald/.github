@@ -1,7 +1,7 @@
 ---
 name: Default feature template
-about: Template to use for estimate-able tickets (Non-SPIKES)
-title: ''
+about: Template to use for estimate-able tickets (Non-SPIKES).
+title: "[Persona name] should (not) be able to [overarching action]"
 labels: ''
 assignees: ''
 
